@@ -1,0 +1,833 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storage>
+  <Project Version="24.2.1.0">
+    <base-designpoint-name valType="String">0</base-designpoint-name>
+    <timestamp-max valType="Int64">7456</timestamp-max>
+    <framework-build-version valType="String">25.1.122.0</framework-build-version>
+    <external-version-string valType="String">2025 R1</external-version-string>
+    <last-saved-utc valType="String">04/06/2025 22:12:06</last-saved-utc>
+    <managed-categories valType="String">[report, misc, progress]</managed-categories>
+    <logHistory valType="StringArray">
+      <ArrayEntry Index="0">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents26608.log</ArrayEntry>
+      <ArrayEntry Index="1">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents26108.log</ArrayEntry>
+      <ArrayEntry Index="2">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents4360.log</ArrayEntry>
+      <ArrayEntry Index="3">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents18360.log</ArrayEntry>
+      <ArrayEntry Index="4">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents10684.log</ArrayEntry>
+      <ArrayEntry Index="5">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents26080.log</ArrayEntry>
+      <ArrayEntry Index="6">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents12776.log</ArrayEntry>
+      <ArrayEntry Index="7">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents12856.log</ArrayEntry>
+      <ArrayEntry Index="8">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents24964.log</ArrayEntry>
+      <ArrayEntry Index="9">nolan.beyou@LUNAYSABINAMOLA:C:\Users\nolan.beyou\AppData\Local\Temp\WorkbenchLogs\CoreEvents25300.log</ArrayEntry>
+    </logHistory>
+    <expression-scope-container valType="String">Parameters</expression-scope-container>
+    <project-type valType="String">WB2</project-type>
+    <project-id valType="String">8ad3d892-de07-4635-b6f4-d851e5d3bf33</project-id>
+    <ReferenceCache>
+      <ProjectReferenceList>
+        <ReferenceList valType="String">{
+"4e4f462f-f2d8-4ab7-b8e4-7cc0f3859867": "/FileContainer/FileReference:F2",
+"accad4b7-b0fc-4baa-a844-5366103bde71": "/FileContainer/FileReference:F1",
+"4c67e58c-b9af-46c0-8881-23e807454db3": "/FileContainer/FileReference:F4",
+"7d99d7c5-85c9-46d8-9f62-a9d69598a2d3": "/FileContainer/FileReference:F5",
+"270b628d-b89c-4a62-a4b6-11c741f5dcbe": "/FileTypesContainer/FileType:GeometryFileType",
+"975ea714-c287-440a-a8c9-7a73ba2f9521": "/FileTypesContainer/FileType:CMDBMeshFileType",
+"d2d6a073-af11-40a0-ac5b-7822ac190420": "/FileTypesContainer/FileType:MeshFileType",
+"9793e1d4-74c3-4624-abfe-e882d5897c03": "/FileTypesContainer/FileType:CFXPreCase",
+"27218c8a-0d57-470e-b097-b6dabfeabe58": "/FileTypesContainer/FileType:project",
+"eb4dd967-3cc6-4dcb-93b3-8b6413fdd267": "/FileTypesContainer/FileType:ACTDatabase",
+"b40a9700-c42a-4d6d-8bec-99f37f814018": "/Schematic/Component:Geometry",
+"daf0d296-e042-4a37-96aa-4f9232b6ae96": "/Schematic/Component:Mesh",
+"09aef1bb-fcbc-46f0-837a-b6dc6de63492": "/Schematic/Component:Setup",
+"994181ee-5228-4cd8-aa80-2e98d2ac0a72": "/Schematic/Component:Solution",
+"c32144fe-830f-4a84-a91e-47b9099c9e58": "/Schematic/Component:Results",
+"2f0ec78b-f07f-4fc1-9a81-f973a770cf93": "/Schematic/Template:Fluid Flow (CFX)",
+"76cf3601-d75c-4643-85ca-e3751295e173": "/Schematic/Template:Static Structural (ANSYS)",
+"3fc56f23-e6bb-4efe-964e-c9b6159468cb": "/Schematic/Template:Fluid Flow",
+"04db792c-cf78-462d-89f4-7157926f675e": "/Schematic/Template:Steady-State Thermal (ANSYS)",
+"eecb7909-3ac8-4ff7-ab9e-e5d0e29edc7e": "/Schematic/Template:Modal (ANSYS)",
+"29d254f4-3bfb-4ec1-a4dc-8098daf95eaf": "/Schematic/Template:Random Vibration (ANSYS)",
+"423477b9-6adc-4687-9bb1-8ff08ddde514": "/Schematic/Template:Response Spectrum (ANSYS)",
+"8b0cdb8b-8eb5-4a6a-b5a6-72345afbcbc9": "/Schematic/Template:Transient Thermal (ANSYS)",
+"1caecfda-77bc-4868-8c32-a3ef23c92b1d": "/Schematic/ComponentTemplate:GeometryCellTemplate",
+"4e0c9370-9fc5-4195-9c50-9ce7c24459a2": "/Schematic/System:CFX",
+"02bccef8-e430-48a5-af16-3d914f6886e0": "/Schematic/ComponentTemplate:SimulationMeshingModelCellTemplate",
+"18cf75ad-4706-4565-8aaa-d9cf0a8ade00": "/Schematic/ComponentTemplate:CFXPhysicsTemplate",
+"e1b791d5-5c92-4b71-aae2-6dd646eaae6f": "/Schematic/ComponentTemplate:CFXResultsTemplate",
+"b62fd806-2dbc-44ca-94ad-a495723402cf": "/Schematic/ComponentTemplate:CFDPostTemplate",
+"c06f2b7c-ff72-4f20-9181-554af6181459": "/FileContainer/FileReference:F165",
+"6b7d5741-8654-4f52-b3c0-cfa9fcd3adce": "/FileTypesContainer/FileType:CFXSolverInput",
+"f637a8dd-6d37-4521-88e6-0c56938f6230": "/FileTypesContainer/FileType:CFDPostState",
+"67421187-a232-49d6-9e1b-2d81231597eb": "/FileTypesContainer/FileType:CFXSolverResults",
+"ea45ad85-6913-4d54-91d7-174357450294": "/FileTypesContainer/FileType:CFXSolverOutput",
+"1aa3834b-dcc2-4477-a431-0c19cf6dbb5a": "/FileContainer/FileReference:F271",
+"d0a1a8ce-3a66-4dc4-86b3-e4639b8506d1": "/FileContainer/FileReference:F272",
+"e52b4fec-0c1e-414a-931f-0aef8c4fe848": "/FileContainer/FileReference:F273",
+"441413f7-3b5c-4305-916e-c828337abacc": "/FileContainer/FileReference:F274",
+"d0cfe379-5c8d-478b-967c-dc8055919f64": "/FileContainer/FileReference:F275",
+"d4cb9078-0b80-4afa-afca-a4aef034aeba": "/FileContainer/FileReference:F276",
+"e4377f7a-ead0-4969-990e-606880cedfac": "/FileContainer/FileReference:F277",
+"8512abc1-1999-4e44-8cc8-ad39c5b067df": "/FileContainer/FileReference:F278",
+"67ef1978-8c1e-4cc8-ae1f-77d851b1d401": "/FileContainer/FileReference:F279",
+"1d1a0dba-e392-4d68-b796-67cc65347e1a": "/FileContainer/FileReference:F280",
+"cf87fa3d-295c-4e72-8432-660cdbd47b82": "/FileContainer/FileReference:F281",
+"619843b8-febb-427c-b821-416817b8ea3f": "/FileContainer/FileReference:F282",
+"1284e782-d332-44f2-8665-d44ca63d0165": "/FileContainer/FileReference:F283",
+"b06ca226-16de-4306-baff-ca9fb97a0991": "/FileContainer/FileReference:F284",
+"e2d510ea-0070-4c9d-a4e8-6d9f60884f1b": "/FileContainer/FileReference:F285",
+"72434bc0-2a9e-4df6-b226-12e456d0d5c0": "/FileContainer/FileReference:F286",
+"d838bce0-0791-48eb-a5fd-a6c09e540484": "/FileContainer/FileReference:F287",
+"6cb4a0b3-b4be-49fd-8b86-5621885e42db": "/FileContainer/FileReference:F288",
+"d8137997-a4f6-49c1-a541-5f249e8e086a": "/FileContainer/FileReference:F289",
+"4f8a69be-a041-4cf6-9599-4d19f8d07ab2": "/FileContainer/FileReference:F290",
+"2539b161-131e-412c-89ae-1cc0bcc2ff4e": "/FileContainer/FileReference:F291",
+"f742e200-f5c5-43a2-b86f-f47a2d4e6de4": "/FileContainer/FileReference:F292",
+"6de2ae5f-30e5-4d1c-bba1-dd1cb937a82f": "/FileContainer/FileReference:F293",
+"471df7b1-316b-4a7e-9778-75904c144faf": "/FileContainer/FileReference:F294",
+"4e696d61-5e0e-4527-a4bc-b210d5c61e16": "/FileContainer/FileReference:F295",
+"46033a1d-3166-4b05-9de8-c3b65686d267": "/FileContainer/FileReference:F296",
+"713a8319-d004-4ae4-89cd-3f9c32f443d9": "/FileContainer/FileReference:F297",
+"1eb671f1-48f1-4990-8cf4-ef5d0f171c45": "/FileContainer/FileReference:F298",
+"4d8b53c5-4be1-4e58-96b4-0bf304a511a0": "/FileContainer/FileReference:F299",
+"68f2cdcd-e0d3-4abf-b82b-66d9eac12d6b": "/FileContainer/FileReference:F300",
+"3ec53681-9790-4748-9d2d-f7868f962b62": "/FileContainer/FileReference:F301",
+"064d08f7-17bf-46b5-96f7-0cf6f28723fe": "/FileContainer/FileReference:F302",
+"b10595d4-f09e-4e92-a601-77eb2e3b5037": "/FileContainer/FileReference:F303",
+"effe5732-cd39-43f6-b6ad-b808ee9bfa49": "/FileContainer/FileReference:F304",
+"17fae6f8-fe71-4aa0-a3d6-95a7b4da699b": "/FileContainer/FileReference:F305",
+"403960c7-cf67-4fd5-9703-2ed33c8d12f1": "/FileContainer/FileReference:F306",
+"5df45197-2d6f-49d4-82d0-14bef60222a7": "/FileContainer/FileReference:F307",
+"b4c21517-24ec-43c5-bf28-5c909d6e362b": "/FileContainer/FileReference:F308",
+"90b2d5c3-3d5c-4c7f-95ee-ffaea2f45b96": "/FileContainer/FileReference:F309",
+"c453c725-c8a9-4d14-931d-d371c5625bec": "/FileContainer/FileReference:F310",
+"86715d94-05be-4935-9628-0c9c0d83da99": "/FileContainer/FileReference:F311",
+"78eb941d-853c-4b3b-8617-1ff2ce85fced": "/FileContainer/FileReference:F312",
+"2826dd39-babb-4afd-b433-94c9ff58849f": "/FileContainer/FileReference:F313",
+"ae55fae4-0608-4f22-a405-17c6a36e3b4b": "/FileContainer/FileReference:F314",
+"c431a638-42e5-40f9-a6fa-2340bdadb7f7": "/FileContainer/FileReference:F315",
+"ad6a9670-a011-43cb-9bd2-11c69ad697e7": "/FileContainer/FileReference:F316",
+"6e1d1693-d158-4183-a267-4f93681b00c0": "/FileContainer/FileReference:F317",
+"15cf5bdc-cf01-4bc4-9b39-85f607503f15": "/FileContainer/FileReference:F318",
+"0bd2e7e7-38de-4dc4-a160-9ac43d356332": "/FileContainer/FileReference:F319",
+"cc59a60b-a7a7-429c-8611-6256d32e52d4": "/FileContainer/FileReference:F320",
+"438f5005-a155-4b76-bed7-bbd820d62165": "/FileContainer/FileReference:F321",
+"e49cb3b5-d535-4006-880e-1569a95d756a": "/FileContainer/FileReference:F322",
+"d0808387-0d81-4aaa-b8e0-e587396ca992": "/FileContainer/FileReference:F323",
+"98f6c653-f124-4bfa-81a5-061928991947": "/FileContainer/FileReference:F324",
+"71368a78-e1ad-4d93-b7d3-0ba50fbc92dd": "/FileContainer/FileReference:F325",
+"fde3c9f5-3486-4af0-909d-c93b8c1fa219": "/FileContainer/FileReference:F326",
+"e1b52fc7-00b4-48f0-bb64-ce5e82d5cd85": "/FileContainer/FileReference:F327",
+"513f51c4-3c26-4af1-9797-eb4bfaac716f": "/FileContainer/FileReference:F328",
+"cac5f632-85ef-4fb1-9d41-d788fbed1c8f": "/FileContainer/FileReference:F329",
+"9bad7bcc-da5c-41fb-8a80-1b1ff1309d05": "/FileContainer/FileReference:F330",
+"c81f3741-68db-4eef-821b-b44f016d6e53": "/FileContainer/FileReference:F331",
+"731212ef-47ed-4f9e-91e3-792178d3f8e2": "/FileContainer/FileReference:F332",
+"b966f24d-b481-4786-9053-62da75faf0fb": "/FileContainer/FileReference:F333",
+"cb18edb9-00ed-482b-8e1d-54bc1157d955": "/FileContainer/FileReference:F334",
+"fce9254d-fac5-4128-b709-72322c62bc36": "/FileContainer/FileReference:F335"
+}</ReferenceList>
+      </ProjectReferenceList>
+      <DesignPointReferenceListCollection>
+        <DesignPointReferenceList Name="0">
+          <ReferenceList valType="String">{
+"03d79be0-5ef0-4e4d-acee-33cba878a54c": "/Geometry/Geometry:GeometryDataObject",
+"a0ffa35e-4371-4dd3-bca9-9f32a8d360d0": "/Mesh/MechanicalModel:MechanicalModel",
+"2bb908be-c8b4-4885-9b68-8f438944a3e2": "/Mesh/MechanicalMeshFile:CMDBMesh",
+"f6bb65ae-ab74-4f87-997c-3d1f40eb2b14": "/Mesh/MeshingGeneratedMeshOutputProvider:MeshingGeneratedMeshOutputProvider",
+"e02c0d53-fed1-4db9-9c44-1aadbbc4cb0f": "/Mesh/GeneratedMeshOutputForAQWAModelProvider:GeneratedMeshOutputForAQWAModelProvider",
+"1a8697c8-cc52-4955-bd70-1487d95348a5": "/Mesh/MeshingMesh:MeshingMeshDataObject",
+"e28e735a-dba0-4a7e-a190-cd5adc180c5a": "/Setup/CFXMeshDataLink:MeshingMeshDataObject",
+"2d9f5d94-039f-457b-be5f-43c5aff36580": "/Setup/CFXSetupProperties:Setup Source",
+"4d3d64d2-9de7-4cb6-8683-ee9dda6d8dc5": "/Setup/CFXSetup:Setup Provider",
+"bd32049d-371e-4fb2-9665-f47f751bd775": "/Solution/CFXSetupDataLink:Setup Provider",
+"360dbcbf-351d-491c-aabd-2d41198cfc90": "/Solution/CFXSolution:Solution Provider",
+"d505f6b3-1db5-44d7-b946-85ce32a9b047": "/Results/SolutionDataLink:Solution Provider",
+"b0aebd42-36ab-46d8-8fa7-9b55a37187b0": "/Results/CFDResults:Results Source",
+"f825fac2-cad1-4ba0-9950-1961aa43408e": "/Solution/CFXSolverRun:Winter_001",
+"7b314dbc-1aa6-4bc3-a6a9-7a8646667259": "/Solution/CFXSolutionProperties:Solution Source"
+}</ReferenceList>
+        </DesignPointReferenceList>
+      </DesignPointReferenceListCollection>
+    </ReferenceCache>
+  </Project>
+  <Addins>
+    <addin-list valType="String">[Ansys.ParameterManager.ParameterManagerAddin, Ansys.ProjectSchematic.ProjectSchematicAddin, Ansys.ProjectReporting.Addin, Ansys.Graphics.GraphicsAddin, Ansys.Units.Commands.Addin, Ansys.HPS.Addin, Ansys.PyAddin.Core.Addin, Ansys.ACT.WorkBench.Addin]</addin-list>
+    <Addin Name="Ansys.ParameterManager.ParameterManagerAddin" Version="7.3" />
+    <Addin Name="Ansys.ProjectSchematic.ProjectSchematicAddin" Version="14.0" />
+    <Addin Name="Ansys.ProjectReporting.Addin" Version="6.0" />
+    <Addin Name="Ansys.Graphics.GraphicsAddin" Version="1.1" />
+    <Addin Name="Ansys.Units.Commands.Addin" Version="7.1" />
+    <Addin Name="Ansys.HPS.Addin" Version="25.1.2.0">
+      <is-optional-on-resume valType="Boolean">true</is-optional-on-resume>
+    </Addin>
+    <Addin Name="Ansys.PyAddin.Core.Addin" Version="25.1.0.0" />
+    <Addin Name="Ansys.ACT.WorkBench.Addin" Version="4.2">
+      <ExtensionsLoaded valType="StringArray">
+        <ArrayEntry Index="0">1;LSDYNA;5f463412-bd3e-484b-87e7-cbc0a665e474;LSDYNA;wbex;2025;1</ArrayEntry>
+        <ArrayEntry Index="1">1;ANSYSMotion;20180725-3f81-49eb-9f31-41364844c769;ANSYSMotion;wbex;2025;1</ArrayEntry>
+      </ExtensionsLoaded>
+    </Addin>
+  </Addins>
+  <Containers>
+    <container-map valType="String">{"FileContainer": Project:FileContainer, "Messages": Project:Messages, "Parameters": Ansys.ParameterManager.ParameterManagerAddin:parameters, "Schematic": Ansys.ProjectSchematic.ProjectSchematicAddin:Default, "ReportDataContainer": Ansys.ProjectReporting.Addin:ReportDataContainer, "Graphics": Ansys.Graphics.GraphicsAddin:graphics, "Units": Ansys.Units.Commands.Addin:Units, "HpsContainer": Ansys.HPS.Addin:HpsContainer, "PyAddinManager": Ansys.PyAddin.Core.Addin:ManagerContainer}</container-map>
+    <static-container-ids valType="String">{"FileContainer": FileManager, "Parameters": Parameters, "Schematic": Schematic, "ReportDataContainer": ReportDataContainer, "Graphics": Graphics, "Units": Units, "HpsContainer": HpsContainer, "PyAddinManager": PyAddinManager}</static-container-ids>
+    <Container Name="FileContainer" Version="1.0">
+      <container-type valType="String">Project:FileContainer</container-type>
+      <static-id valType="String">FileManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 7405, "Input": 3765, "Output": 3765}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/FileContainer/FileReference:F1" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F1</object-name>
+        <member-data valType="String">{"DisplayText": "BetterCirculation (1).stp", "FileType": $$270b628d-b89c-4a62-a4b6-11c741f5dcbe, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"\\Mac\Home\Downloads\BetterCirculation (1).stp", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F2" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F2</object-name>
+        <member-data valType="String">{"DisplayText": "CFX.agdb", "FileType": $$270b628d-b89c-4a62-a4b6-11c741f5dcbe, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\DM\CFX.agdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F271" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F271</object-name>
+        <member-data valType="String">{"DisplayText": "CFX1.cmdb", "FileType": $$975ea714-c287-440a-a8c9-7a73ba2f9521, "DependentFiles": [], "ContainerAssociations": ["Mesh"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\MECH\CFX1.cmdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F4" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F4</object-name>
+        <member-data valType="String">{"DisplayText": "CFX.mshdb", "FileType": $$d2d6a073-af11-40a0-ac5b-7822ac190420, "DependentFiles": [], "ContainerAssociations": ["Mesh"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\CFX.mshdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F5" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F5</object-name>
+        <member-data valType="String">{"DisplayText": "Winter.cfx", "FileType": $$9793e1d4-74c3-4624-abfe-e882d5897c03, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter.cfx", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F6" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F6</object-name>
+        <member-data valType="String">{"DisplayText": "winter_Buena.wbpj", "FileType": $$27218c8a-0d57-470e-b097-b6dabfeabe58, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": "$(ProjectName).wbpj", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F7" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F7</object-name>
+        <member-data valType="String">{"DisplayText": "act.dat", "FileType": $$eb4dd967-3cc6-4dcb-93b3-8b6413fdd267, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\act.dat", "ReferenceCount": 13}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F272" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F272</object-name>
+        <member-data valType="String">{"DisplayText": "Winter.def", "FileType": $$6b7d5741-8654-4f52-b3c0-cfa9fcd3adce, "DependentFiles": [], "ContainerAssociations": ["Setup"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter.def", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F165" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F165</object-name>
+        <member-data valType="String">{"DisplayText": "Winter.cst", "FileType": $$f637a8dd-6d37-4521-88e6-0c56938f6230, "DependentFiles": [], "ContainerAssociations": ["Results"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\Post\Winter.cst", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F335" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F335</object-name>
+        <member-data valType="String">{"DisplayText": "9_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\9_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F334" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F334</object-name>
+        <member-data valType="String">{"DisplayText": "8_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\8_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F333" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F333</object-name>
+        <member-data valType="String">{"DisplayText": "7_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\7_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F332" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F332</object-name>
+        <member-data valType="String">{"DisplayText": "6_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\6_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F331" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F331</object-name>
+        <member-data valType="String">{"DisplayText": "60_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\60_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F330" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F330</object-name>
+        <member-data valType="String">{"DisplayText": "5_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\5_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F329" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F329</object-name>
+        <member-data valType="String">{"DisplayText": "59_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\59_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F328" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F328</object-name>
+        <member-data valType="String">{"DisplayText": "58_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\58_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F327" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F327</object-name>
+        <member-data valType="String">{"DisplayText": "57_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\57_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F326" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F326</object-name>
+        <member-data valType="String">{"DisplayText": "56_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\56_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F325" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F325</object-name>
+        <member-data valType="String">{"DisplayText": "55_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\55_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F324" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F324</object-name>
+        <member-data valType="String">{"DisplayText": "54_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\54_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F323" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F323</object-name>
+        <member-data valType="String">{"DisplayText": "53_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\53_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F322" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F322</object-name>
+        <member-data valType="String">{"DisplayText": "52_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\52_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F321" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F321</object-name>
+        <member-data valType="String">{"DisplayText": "51_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\51_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F320" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F320</object-name>
+        <member-data valType="String">{"DisplayText": "50_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\50_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F319" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F319</object-name>
+        <member-data valType="String">{"DisplayText": "4_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\4_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F318" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F318</object-name>
+        <member-data valType="String">{"DisplayText": "49_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\49_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F317" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F317</object-name>
+        <member-data valType="String">{"DisplayText": "48_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\48_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F316" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F316</object-name>
+        <member-data valType="String">{"DisplayText": "47_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\47_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F315" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F315</object-name>
+        <member-data valType="String">{"DisplayText": "46_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\46_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F314" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F314</object-name>
+        <member-data valType="String">{"DisplayText": "45_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\45_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F313" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F313</object-name>
+        <member-data valType="String">{"DisplayText": "44_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\44_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F312" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F312</object-name>
+        <member-data valType="String">{"DisplayText": "43_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\43_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F311" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F311</object-name>
+        <member-data valType="String">{"DisplayText": "42_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\42_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F310" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F310</object-name>
+        <member-data valType="String">{"DisplayText": "41_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\41_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F309" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F309</object-name>
+        <member-data valType="String">{"DisplayText": "40_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\40_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F308" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F308</object-name>
+        <member-data valType="String">{"DisplayText": "3_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\3_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F307" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F307</object-name>
+        <member-data valType="String">{"DisplayText": "39_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\39_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F306" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F306</object-name>
+        <member-data valType="String">{"DisplayText": "38_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\38_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F305" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F305</object-name>
+        <member-data valType="String">{"DisplayText": "37_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\37_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F304" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F304</object-name>
+        <member-data valType="String">{"DisplayText": "36_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\36_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F303" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F303</object-name>
+        <member-data valType="String">{"DisplayText": "35_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\35_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F302" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F302</object-name>
+        <member-data valType="String">{"DisplayText": "34_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\34_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F301" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F301</object-name>
+        <member-data valType="String">{"DisplayText": "33_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\33_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F300" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F300</object-name>
+        <member-data valType="String">{"DisplayText": "32_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\32_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F299" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F299</object-name>
+        <member-data valType="String">{"DisplayText": "31_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\31_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F298" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F298</object-name>
+        <member-data valType="String">{"DisplayText": "30_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\30_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F297" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F297</object-name>
+        <member-data valType="String">{"DisplayText": "2_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\2_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F296" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F296</object-name>
+        <member-data valType="String">{"DisplayText": "29_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\29_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F295" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F295</object-name>
+        <member-data valType="String">{"DisplayText": "28_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\28_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F294" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F294</object-name>
+        <member-data valType="String">{"DisplayText": "27_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\27_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F293" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F293</object-name>
+        <member-data valType="String">{"DisplayText": "26_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\26_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F292" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F292</object-name>
+        <member-data valType="String">{"DisplayText": "25_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\25_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F291" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F291</object-name>
+        <member-data valType="String">{"DisplayText": "24_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\24_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F290" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F290</object-name>
+        <member-data valType="String">{"DisplayText": "23_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\23_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F289" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F289</object-name>
+        <member-data valType="String">{"DisplayText": "22_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\22_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F288" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F288</object-name>
+        <member-data valType="String">{"DisplayText": "21_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\21_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F287" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F287</object-name>
+        <member-data valType="String">{"DisplayText": "20_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\20_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F286" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F286</object-name>
+        <member-data valType="String">{"DisplayText": "1_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\1_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F285" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F285</object-name>
+        <member-data valType="String">{"DisplayText": "19_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\19_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F284" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F284</object-name>
+        <member-data valType="String">{"DisplayText": "18_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\18_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F283" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F283</object-name>
+        <member-data valType="String">{"DisplayText": "17_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\17_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F282" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F282</object-name>
+        <member-data valType="String">{"DisplayText": "16_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\16_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F281" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F281</object-name>
+        <member-data valType="String">{"DisplayText": "15_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\15_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F280" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F280</object-name>
+        <member-data valType="String">{"DisplayText": "14_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\14_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F279" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F279</object-name>
+        <member-data valType="String">{"DisplayText": "13_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\13_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F278" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F278</object-name>
+        <member-data valType="String">{"DisplayText": "12_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\12_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F277" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F277</object-name>
+        <member-data valType="String">{"DisplayText": "11_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\11_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F276" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F276</object-name>
+        <member-data valType="String">{"DisplayText": "10_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\10_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F275" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F275</object-name>
+        <member-data valType="String">{"DisplayText": "0_full.trn", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001\0_full.trn", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F274" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F274</object-name>
+        <member-data valType="String">{"DisplayText": "Winter_001.out", "FileType": $$ea45ad85-6913-4d54-91d7-174357450294, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001.out", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F273" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F273</object-name>
+        <member-data valType="String">{"DisplayText": "Winter_001.res", "FileType": $$67421187-a232-49d6-9e1b-2d81231597eb, "DependentFiles": [], "ContainerAssociations": ["Solution"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\CFX\CFX\Winter_001.res", "ReferenceCount": 1}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Messages" Version="1.0">
+      <container-type valType="String">Project:Messages</container-type>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 6743, "Input": 3766, "Output": 3766}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Messages/StoredMessage:Message" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "The selected file is of an unsupported or unconfigured Geometry type.", "Details": "The Geometry source has not been changed.  Please select a supported geometry type before proceeding.", "Association": "", "DateTimeStamp": 03/24/2025 16:18:46, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 1" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 1</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "The selected file is of an unsupported or unconfigured Geometry type.", "Details": "The Geometry source has not been changed.  Please select a supported geometry type before proceeding.", "Association": "", "DateTimeStamp": 03/24/2025 16:19:03, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 2" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 2</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """Not connected to a server for Licensing Client Proxy actions.
+""", "Details": """Not connected to a server for Licensing Client Proxy actions.
+""", "Association": "", "DateTimeStamp": 03/25/2025 21:15:59, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 3" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 3</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """
+2025/03/26 06:18:01
+License server lost for 5 minutes.  Please save your work.
+
+License server will time out in 55 minutes if not reconnected before.
+
+Licensing path:
+        FLEXlm Servers: """, "Details": """
+2025/03/26 06:18:01
+License server lost for 5 minutes.  Please save your work.
+
+License server will time out in 55 minutes if not reconnected before.
+
+Licensing path:
+        FLEXlm Servers: """, "Association": "", "DateTimeStamp": 03/26/2025 06:18:01, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 4" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 4</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": """
+2025/03/26 16:34:51
+License server lost for 5 minutes.  Please save your work.
+
+License server will time out in 55 minutes if not reconnected before.
+
+Licensing path:
+        FLEXlm Servers: """, "Details": """
+2025/03/26 16:34:51
+License server lost for 5 minutes.  Please save your work.
+
+License server will time out in 55 minutes if not reconnected before.
+
+Licensing path:
+        FLEXlm Servers: """, "Association": "", "DateTimeStamp": 03/26/2025 16:34:53, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": "0"}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 5" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 5</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Solution component in Winter.  The solver failed with a non-zero exit code of : 2", "Details": None, "Association": "", "DateTimeStamp": 03/26/2025 17:34:28, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": $$994181ee-5228-4cd8-aa80-2e98d2ac0a72, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 6" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 6</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Information", "MessageCategory": "None", "Summary": """Application Error in CFD-Post: WARNING
+Timestep 0 is not available in case 'Winter'.""", "Details": """CFD-Post Application Error
+
+WARNING
+Timestep 0 is not available in case 'Winter'.
+
+""", "Association": "", "DateTimeStamp": 04/03/2025 16:54:38, "Visibility": "Information", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 7" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 7</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Error", "MessageCategory": "None", "Summary": "Update failed for the Mesh component in Winter.   Meshing is busy in another operation.", "Details": None, "Association": "", "DateTimeStamp": 04/04/2025 10:51:33, "Visibility": "Error", "MessageSourceContainer": None, "MessageSourceEntity": $$daf0d296-e042-4a37-96aa-4f9232b6ae96, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Parameters" Version="1.0">
+      <container-type valType="String">Ansys.ParameterManager.ParameterManagerAddin:parameters</container-type>
+      <static-id valType="String">Parameters</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <maxUpdateOrder valType="Double">1</maxUpdateOrder>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 7454, "Input": 6732, "Output": 3769}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Parameters/DesignPoint:0" Version="1.0">
+        <class-type valType="String">DesignPoint</class-type>
+        <object-name valType="String">0</object-name>
+        <member-data valType="String">{"DisplayText": "DP 0", "JustDuplicated": False, "PartiallyRetainedData": [], "ValidRetainedData": [], "ErrorsOnLastUpdate": {}, "LastUpdateInformation": {"DidUpdate": "True", "DidPreRsmUpdate": "False", "UpdatedComponents": "Solution in CFX"}, "Parameters": {}, "ParameterErrors": {}, "CurrentValues": {}, "ParameterStatus": {}, "Note": None, "IsUpToDate": False, "Exported": True, "Retained": True, "CurrentStateExported": False, "IsDataModelValid": True, "HasRetainedData": True, "HasBeenSolved": True, "UpdateOrder": 1}</member-data>
+        <properties-setByUserFlag-data valType="String">["IsDataModelValid"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Parameters/DesignPointReportSetting:Design Points Report Setting" Version="1.0">
+        <class-type valType="String">DesignPointReportSetting</class-type>
+        <object-name valType="String">Design Points Report Setting</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Report Setting", "DesignPointReportImage": "None"}</member-data>
+      </Object>
+      <ParameterToPropertyMap />
+    </Container>
+    <Container Name="Schematic" Version="1.0">
+      <container-type valType="String">Ansys.ProjectSchematic.ProjectSchematicAddin:Default</container-type>
+      <static-id valType="String">Schematic</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 7450, "Input": 7292, "Output": 3772}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Schematic/System:CFX" Version="1.0">
+        <class-type valType="String">System</class-type>
+        <object-name valType="String">CFX</object-name>
+        <member-data valType="String">{"DisplayText": "Winter", "Components": [$$b40a9700-c42a-4d6d-8bec-99f37f814018, $$daf0d296-e042-4a37-96aa-4f9232b6ae96, $$09aef1bb-fcbc-46f0-837a-b6dc6de63492, $$994181ee-5228-4cd8-aa80-2e98d2ac0a72, $$c32144fe-830f-4a84-a91e-47b9099c9e58], "ComponentGroups": [], "SystemVisible": True, "RequiredComponents": [], "ExcludedComponentTemplates": [], "Attributes": {"PhysicsType": "Fluids", "AnalysisType": None, "SolverType": "CFX", "PhysicsTypeDisplayString": "Fluids", "SystemName": "Fluid Flow (CFX)", "IsCreated": "True", "VOLATILE:SystemName": "CFX"}, "SystemType": "Fluid Flow (CFX)", "HeaderText": "Fluid Flow (CFX)", "SystemTypeAbbreviation": "CFX", "UniqueSystemDirectoryName": "CFX", "Physics": [], "AnalysisType": None, "SystemHelpId": "wb2sb_ffCFX", "AdditionalSystemHelpId": None, "IsParametric": False, "CreatedFromTemplate": $$2f0ec78b-f07f-4fc1-9a81-f973a770cf93, "Notes": None, "LayoutChildren": [], "LayoutIndex": 1}</member-data>
+        <properties-setByUserFlag-data valType="String">["DisplayText"]</properties-setByUserFlag-data>
+      </Object>
+      <Object Name="/Schematic/SchematicSettings:Schematic Settings" Version="1.0">
+        <class-type valType="String">SchematicSettings</class-type>
+        <object-name valType="String">Schematic Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic Settings", "WireBundling": False, "ShowSystemCoordinates": True, "Notes": None, "SuspendCollectingRSMResult": False}</member-data>
+      </Object>
+      <Object Name="/Schematic/DesignPointSolveSettings:Design Points Update Settings" Version="1.0">
+        <class-type valType="String">DesignPointSolveSettings</class-type>
+        <object-name valType="String">Design Points Update Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Update Settings", "UpdateOption": "Foreground", "RsmUserString": None, "ConfiguredQueue": {"OptionIcons": None, "OptionLabels": "Local", "Options": "Local", "ReadOnlyOptions": None, "OptionFeatureFlags": None, "OptionFilterFlags": None, "OptionLicenseFlags": None, "Value": "Local"}, "RsmJobName": "Workbench", "UpdateMethod": "Foreground", "UpdateOrder": "UpdateFromCurrentDesignPoint", "PreRSMUpdate": "Geometry", "PartialUpdate": "None", "RetainPartialUpdate": "None", "ComponentExecutionMode": "Serial", "NumberOfCoresPerJob": 2, "RetainFailedDesignPoints": False, "DesignPointRetainedOrExportedUpdate": "Parameters", "DesignPointUpdateTimeout": 0, "JobStatusCheckIntervalInSeconds": 20, "NumberOfJobsToBeCreated": 1, "NumberOfTasksToBeCreated": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/Bookkeeper:Schematic bookkeeper" Version="1.0">
+        <class-type valType="String">Bookkeeper</class-type>
+        <object-name valType="String">Schematic bookkeeper</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic bookkeeper", "UpfrontLicenseCheckoutSelection": []}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:FSI: Fluid Flow (CFX) -&gt; Static Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">FSI: Fluid Flow (CFX) -&gt; Static Structural</object-name>
+        <member-data valType="String">{"DisplayText": "FSI: Fluid Flow (CFX) -&gt; Static Structural", "SystemTemplates": [$$2f0ec78b-f07f-4fc1-9a81-f973a770cf93, $$76cf3601-d75c-4643-85ca-e3751295e173], "SystemNames": ["Fluid Flow (CFX)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Fluid Flow (CFX):Geometry", "Static Structural (ANSYS):Geometry"], ["Connect", "Fluid Flow (CFX):Solution:CFXTransferResultsTemplate", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Fluid Flow (CFX)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Fluid Flow (CFX)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:FSI: Fluid Flow (FLUENT) -&gt; Static Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">FSI: Fluid Flow (FLUENT) -&gt; Static Structural</object-name>
+        <member-data valType="String">{"DisplayText": "FSI: Fluid Flow (FLUENT) -&gt; Static Structural", "SystemTemplates": [$$3fc56f23-e6bb-4efe-964e-c9b6159468cb, $$76cf3601-d75c-4643-85ca-e3751295e173], "SystemNames": ["Fluid Flow (FLUENT)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Fluid Flow (FLUENT):Geometry", "Static Structural (ANSYS):Geometry"], ["Connect", "Fluid Flow (FLUENT):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Fluid Flow (FLUENT)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Fluid Flow (FLUENT)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Thermal-Stress" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Thermal-Stress</object-name>
+        <member-data valType="String">{"DisplayText": "Thermal-Stress", "SystemTemplates": [$$04db792c-cf78-462d-89f4-7157926f675e, $$76cf3601-d75c-4643-85ca-e3751295e173], "SystemNames": ["Steady-State Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Steady-State Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Steady-State Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Steady-State Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Steady-State Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Steady-State Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Steady-State Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Pre-Stress Modal" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Pre-Stress Modal</object-name>
+        <member-data valType="String">{"DisplayText": "Pre-Stress Modal", "SystemTemplates": [$$76cf3601-d75c-4643-85ca-e3751295e173, $$eecb7909-3ac8-4ff7-ab9e-e5d0e29edc7e], "SystemNames": ["Static Structural (ANSYS)", "Modal (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Static Structural (ANSYS):Engineering Data", "Modal (ANSYS):Engineering Data"], ["Share", "Static Structural (ANSYS):Geometry", "Modal (ANSYS):Geometry"], ["Share", "Static Structural (ANSYS):Model", "Modal (ANSYS):Model"], ["Connect", "Static Structural (ANSYS):Solution", "Modal (ANSYS):Setup"]], "LayoutIndices": {"Static Structural (ANSYS)": 1, "Modal (ANSYS)": 0}, "LayoutChildren": {"Static Structural (ANSYS)": ["Modal (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Random Vibration" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Random Vibration</object-name>
+        <member-data valType="String">{"DisplayText": "Random Vibration", "SystemTemplates": [$$eecb7909-3ac8-4ff7-ab9e-e5d0e29edc7e, $$29d254f4-3bfb-4ec1-a4dc-8098daf95eaf], "SystemNames": ["Modal (ANSYS)", "Random Vibration (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Random Vibration (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Random Vibration (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Random Vibration (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Random Vibration (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Random Vibration (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Random Vibration (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Response Spectrum" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Response Spectrum</object-name>
+        <member-data valType="String">{"DisplayText": "Response Spectrum", "SystemTemplates": [$$eecb7909-3ac8-4ff7-ab9e-e5d0e29edc7e, $$423477b9-6adc-4687-9bb1-8ff08ddde514], "SystemNames": ["Modal (ANSYS)", "Response Spectrum (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Response Spectrum (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Response Spectrum (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Response Spectrum (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Response Spectrum (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Response Spectrum (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Response Spectrum (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM DED Process" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM DED Process</object-name>
+        <member-data valType="String">{"DisplayText": "AM DED Process", "SystemTemplates": [$$8b0cdb8b-8eb5-4a6a-b5a6-72345afbcbc9, $$76cf3601-d75c-4643-85ca-e3751295e173], "SystemNames": ["Transient Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Transient Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Transient Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Transient Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"]], "LayoutIndices": {"Transient Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Transient Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {"Transient Thermal (ANSYS)": {"IsAMDEDSystem": "True"}, "Static Structural (ANSYS)": {"IsAMDEDSystem": "True"}}, "SystemDisplayTexts": {"Transient Thermal (ANSYS)": "AM DED Thermal", "Static Structural (ANSYS)": "AM DED Structural"}, "DisabledOnPlatform": "Linux"}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM LPBF Thermal-Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM LPBF Thermal-Structural</object-name>
+        <member-data valType="String">{"DisplayText": "AM LPBF Thermal-Structural", "SystemTemplates": [$$8b0cdb8b-8eb5-4a6a-b5a6-72345afbcbc9, $$76cf3601-d75c-4643-85ca-e3751295e173], "SystemNames": ["Transient Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Transient Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Transient Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Transient Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Transient Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Transient Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Transient Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {"Transient Thermal (ANSYS)": {"IsAMSystem": "True"}, "Static Structural (ANSYS)": {"IsAMSystem": "True"}}, "SystemDisplayTexts": {"Transient Thermal (ANSYS)": "AM LPBF Thermal", "Static Structural (ANSYS)": "AM LPBF Structural"}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM LPBF Inherent Strain" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM LPBF Inherent Strain</object-name>
+        <member-data valType="String">{"DisplayText": "AM LPBF Inherent Strain", "SystemTemplates": [$$76cf3601-d75c-4643-85ca-e3751295e173], "SystemNames": ["Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [], "LayoutIndices": {}, "LayoutChildren": {}, "Attributes": {"Static Structural (ANSYS)": {"IsAMSystem": "True"}}, "SystemDisplayTexts": {"Static Structural (ANSYS)": "AM LPBF Inherent Strain"}, "DisabledOnPlatform": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Geometry" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Geometry</object-name>
+        <member-data valType="String">{"DisplayText": "Geometry", "ImageName": "cad_designmodeler", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Geometry", "_overwrittenUpdatable": None, "Template": $$1caecfda-77bc-4868-8c32-a3ef23c92b1d, "InSystem": $$4e0c9370-9fc5-4195-9c50-9ce7c24459a2, "MasterSources": {"Sources": []}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Mesh" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Mesh</object-name>
+        <member-data valType="String">{"DisplayText": "Mesh", "ImageName": "model2", "ComponentStateOnLastFailure": "Modified", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Mesh", "_overwrittenUpdatable": None, "Template": $$02bccef8-e430-48a5-af16-3d914f6886e0, "InSystem": $$4e0c9370-9fc5-4195-9c50-9ce7c24459a2, "MasterSources": {"Sources": [[{"DataType": "Geometry", "Component": $$b40a9700-c42a-4d6d-8bec-99f37f814018, "Transfer": None}]]}, "Notes": None, "UsedLicenses": {}, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Setup" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Setup</object-name>
+        <member-data valType="String">{"DisplayText": "Setup", "ImageName": "setup", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Setup", "_overwrittenUpdatable": None, "Template": $$18cf75ad-4706-4565-8aaa-d9cf0a8ade00, "InSystem": $$4e0c9370-9fc5-4195-9c50-9ce7c24459a2, "MasterSources": {"Sources": [[{"DataType": "SimulationGeneratedMesh", "Component": $$daf0d296-e042-4a37-96aa-4f9232b6ae96, "Transfer": None}], [{"DataType": "SimulationGeneratedMesh", "Component": $$09aef1bb-fcbc-46f0-837a-b6dc6de63492, "Transfer": None}], [{"DataType": "CFXMesh", "Component": $$09aef1bb-fcbc-46f0-837a-b6dc6de63492, "Transfer": None}], [{"DataType": "FluentTGridMesh", "Component": $$09aef1bb-fcbc-46f0-837a-b6dc6de63492, "Transfer": None}], [{"DataType": "MechanicalSetup", "Component": $$09aef1bb-fcbc-46f0-837a-b6dc6de63492, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Solution" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Solution</object-name>
+        <member-data valType="String">{"DisplayText": "Solution", "ImageName": "solution", "ComponentStateOnLastFailure": "Modified", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Solution", "_overwrittenUpdatable": None, "Template": $$e1b791d5-5c92-4b71-aae2-6dd646eaae6f, "InSystem": $$4e0c9370-9fc5-4195-9c50-9ce7c24459a2, "MasterSources": {"Sources": [[{"DataType": "CFXSetup", "Component": $$09aef1bb-fcbc-46f0-837a-b6dc6de63492, "Transfer": None}]]}, "Notes": None, "UsedLicenses": {"cfd_base": 2, "cfd_solve_level1": 2, "cfd_solve_level2": 2}, "ActiveTransferComponents": [], "Solver": "CFX", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Results" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Results</object-name>
+        <member-data valType="String">{"DisplayText": "Results", "ImageName": "results", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Results", "_overwrittenUpdatable": None, "Template": $$b62fd806-2dbc-44ca-94ad-a495723402cf, "InSystem": $$4e0c9370-9fc5-4195-9c50-9ce7c24459a2, "MasterSources": {"Sources": [[{"DataType": "CFXSolution", "Component": $$994181ee-5228-4cd8-aa80-2e98d2ac0a72, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="ReportDataContainer" Version="1.0">
+      <container-type valType="String">Ansys.ProjectReporting.Addin:ReportDataContainer</container-type>
+      <static-id valType="String">ReportDataContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 4106, "Input": 4097, "Output": 4097}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Graphics" Version="1.0">
+      <container-type valType="String">Ansys.Graphics.GraphicsAddin:graphics</container-type>
+      <static-id valType="String">Graphics</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 4107, "Input": 4107, "Output": 4107}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Units" Version="1.0">
+      <container-type valType="String">Ansys.Units.Commands.Addin:Units</container-type>
+      <static-id valType="String">Units</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 4108, "Input": 4268, "Output": 4108}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Units/UnitSystemProjectSettings:UnitSystemProjectSettings" Version="1.0">
+        <class-type valType="String">UnitSystemProjectSettings</class-type>
+        <object-name valType="String">UnitSystemProjectSettings</object-name>
+        <member-data valType="String">{"DisplayText": "UnitSystemProjectSettings", "DataContainerUnitSystemRegistry": {"Geometry": "DesignModelerUnitSystem_m"}}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys</object-name>
+        <member-data valType="String">{"DisplayText": "Metric (kg,m,s,°C,A,N,V)", "ChangedQuantityUnits": {}, "UnitSystemName": "MKS_STANDARD", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": True, "IsDefault": False}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys 1" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys 1</object-name>
+        <member-data valType="String">{"DisplayText": "DesignModeler Unit System (m, degree)", "ChangedQuantityUnits": {"Angle": "degree", "Density Derivative wrt Temperature": "kg m^-3 C^-1", "Energy Source Coefficient": "W m^-3 C^-1", "Heat Transfer Coefficient": "W m^-2 C^-1", "Inverse Angle": "degree^-1", "Molar Entropy": "J mol^-1 C^-1", "Piezoelectric Strain Coefficient": "A s N^-1", "Piezoelectric Stress Coefficient": "A s m^-2", "Pressure Derivative wrt Temperature": "Pa C^-1", "Seebeck Coefficient": "V C^-1", "Specific Entropy": "J kg^-1 C^-1", "Specific Heat Capacity": "J kg^-1 C^-1", "Stress Per Temperature": "Pa C^-1", "Temperature": "C", "Temperature Difference": "C", "Temperature Gradient": "C m^-1", "InvTemp1": "C^-1", "InvTemp2": "C^-2", "InvTemp3": "C^-3", "InvTemp4": "C^-4", "Thermal Capacitance": "J C^-1", "Thermal Compliance": "W C", "Thermal Conductance": "W C^-1", "Thermal Conductivity": "W m^-1 C^-1", "Thermal Contact Resistance": "W^-1 m^2 C", "Thermal Expansivity": "C^-1"}, "UnitSystemName": "DesignModelerUnitSystem_m", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": False, "IsDefault": False}</member-data>
+      </Object>
+    </Container>
+    <Container Name="HpsContainer" Version="1.0">
+      <container-type valType="String">Ansys.HPS.Addin:HpsContainer</container-type>
+      <static-id valType="String">HpsContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 4114, "Input": 4111, "Output": 4111}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/HpsContainer/HpsSettings:HPS Settings Entity" Version="1.0">
+        <class-type valType="String">HpsSettings</class-type>
+        <object-name valType="String">HPS Settings Entity</object-name>
+        <member-data valType="String">{"DisplayText": "HPS Settings Entity", "ServerUrl": "https://localhost:8443/hps", "ServerUserName": None, "ServerPassword": None, "ProjectId": None, "ExecutionTime": 300, "UpdateDesignPointInSteps": False}</member-data>
+      </Object>
+      <Object Name="/HpsContainer/HpsProjectIdMap:HPS ProjectId Map Entity" Version="1.0">
+        <class-type valType="String">HpsProjectIdMap</class-type>
+        <object-name valType="String">HPS ProjectId Map Entity</object-name>
+        <member-data valType="String">{"DisplayText": "HPS ProjectId Map Entity", "HpsProjectIdMap": {}}</member-data>
+      </Object>
+    </Container>
+    <Container Name="PyAddinManager" Version="1.0">
+      <container-type valType="String">Ansys.PyAddin.Core.Addin:ManagerContainer</container-type>
+      <static-id valType="String">PyAddinManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 4115, "Input": 4116, "Output": 4115}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/PyAddinManager/ManagerDataObject:PyAddins" Version="1.0">
+        <class-type valType="String">ManagerDataObject</class-type>
+        <object-name valType="String">PyAddins</object-name>
+        <member-data valType="String">{"DisplayText": "PyAddins", "PyAddins": {}}</member-data>
+      </Object>
+    </Container>
+  </Containers>
+</Storage>
