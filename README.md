@@ -56,8 +56,7 @@ Je suis étudiant en ingénierie à l'Université Technologique de Compiègne, p
 
 ## 📫 Me contacter
 - ✉️ nolan.beyou@etu.utc.fr / nolanoxbey@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tonprofil) *(ajuste ce lien si tu as un vrai profil)*
-- 📸 [Instagram](https://www.instagram.com/nolaaaan.beyou/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nolan-beyou-1565672b1/) 
 
 ---
 
